@@ -1,0 +1,1293 @@
+ {
+  "count": 214, 
+  "metricstatistics": [
+    {
+      "samplecount": 73, 
+      "timestamp": "2016-01-21T00:00:00.000", 
+      "average": 7.3357305946575355, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T00:05:00.000", 
+      "average": 10.577411609107143, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T00:10:00.000", 
+      "average": 1.7124615663846154, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T00:15:00.000", 
+      "average": 14.749999999090909, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T00:20:00.000", 
+      "average": 10.245801291923076, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T00:25:00.000", 
+      "average": 10.055333268166665, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T00:30:00.000", 
+      "average": 1.0877693143076925, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T00:35:00.000", 
+      "average": 14.319520227272726, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 57, 
+      "timestamp": "2016-01-21T00:40:00.000", 
+      "average": 9.891637464035089, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 61, 
+      "timestamp": "2016-01-21T00:45:00.000", 
+      "average": 9.956721396065573, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 61, 
+      "timestamp": "2016-01-21T00:50:00.000", 
+      "average": 8.777787532622948, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T00:55:00.000", 
+      "average": 1.2989542519607846, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 49, 
+      "timestamp": "2016-01-21T01:00:00.000", 
+      "average": 9.845068021836733, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 82, 
+      "timestamp": "2016-01-21T01:05:00.000", 
+      "average": 11.362946423902438, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 48, 
+      "timestamp": "2016-01-21T01:10:00.000", 
+      "average": 1.25218749875, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T01:15:00.000", 
+      "average": 16.606945114833334, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T01:20:00.000", 
+      "average": 10.33763713109091, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T01:25:00.000", 
+      "average": 8.952768359322034, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 69, 
+      "timestamp": "2016-01-21T01:30:00.000", 
+      "average": 1.5512801501449276, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 61, 
+      "timestamp": "2016-01-21T01:35:00.000", 
+      "average": 15.927295081967213, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T01:40:00.000", 
+      "average": 0.5749107183928571, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T01:45:00.000", 
+      "average": 7.057435897230769, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 41, 
+      "timestamp": "2016-01-21T01:50:00.000", 
+      "average": 12.2981706797561, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T01:55:00.000", 
+      "average": 8.222852562692307, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 76, 
+      "timestamp": "2016-01-21T02:00:00.000", 
+      "average": 6.410657895789473, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 50, 
+      "timestamp": "2016-01-21T02:05:00.000", 
+      "average": 10.1404000176, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 58, 
+      "timestamp": "2016-01-21T02:10:00.000", 
+      "average": 7.618045956551724, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 53, 
+      "timestamp": "2016-01-21T02:15:00.000", 
+      "average": 9.171824693207547, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 82, 
+      "timestamp": "2016-01-21T02:20:00.000", 
+      "average": 12.446645608048781, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T02:25:00.000", 
+      "average": 10.8922441675, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T02:30:00.000", 
+      "average": 0.5733636201818182, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 74, 
+      "timestamp": "2016-01-21T02:35:00.000", 
+      "average": 13.201171198918919, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T02:40:00.000", 
+      "average": 11.600192302115385, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 70, 
+      "timestamp": "2016-01-21T02:45:00.000", 
+      "average": 7.527666673142858, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T02:50:00.000", 
+      "average": 10.818717966346156, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T02:55:00.000", 
+      "average": 10.9056057, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 64, 
+      "timestamp": "2016-01-21T03:00:00.000", 
+      "average": 8.28481770765625, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T03:05:00.000", 
+      "average": 8.70479480969231, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 72, 
+      "timestamp": "2016-01-21T03:10:00.000", 
+      "average": 8.580370392222221, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T03:15:00.000", 
+      "average": 10.011920939491525, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 53, 
+      "timestamp": "2016-01-21T03:20:00.000", 
+      "average": 10.128616314528303, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T03:25:00.000", 
+      "average": 10.055446430357145, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 75, 
+      "timestamp": "2016-01-21T03:30:00.000", 
+      "average": 8.057222717733334, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 48, 
+      "timestamp": "2016-01-21T03:35:00.000", 
+      "average": 11.019201392708334, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T03:40:00.000", 
+      "average": 10.243363985272726, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 74, 
+      "timestamp": "2016-01-21T03:45:00.000", 
+      "average": 7.999436905743245, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 47, 
+      "timestamp": "2016-01-21T03:50:00.000", 
+      "average": 11.180957874893618, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T03:55:00.000", 
+      "average": 9.54807907762712, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 74, 
+      "timestamp": "2016-01-21T04:00:00.000", 
+      "average": 8.07990987283784, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T04:05:00.000", 
+      "average": 11.267724413076921, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T04:10:00.000", 
+      "average": 8.517948716615384, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T04:15:00.000", 
+      "average": 10.729732152142859, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 75, 
+      "timestamp": "2016-01-21T04:20:00.000", 
+      "average": 7.775644418533332, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 63, 
+      "timestamp": "2016-01-21T04:25:00.000", 
+      "average": 8.411402447301588, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 38, 
+      "timestamp": "2016-01-21T04:30:00.000", 
+      "average": 14.340833261315789, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 63, 
+      "timestamp": "2016-01-21T04:35:00.000", 
+      "average": 9.7608994868254, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T04:40:00.000", 
+      "average": 9.029944000847458, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T04:45:00.000", 
+      "average": 1.023107379661017, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T04:50:00.000", 
+      "average": 8.542062788135594, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 39, 
+      "timestamp": "2016-01-21T04:55:00.000", 
+      "average": 10.87854700871795, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 90, 
+      "timestamp": "2016-01-21T05:00:00.000", 
+      "average": 5.468629625444444, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 47, 
+      "timestamp": "2016-01-21T05:05:00.000", 
+      "average": 21.400603458085108, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 45, 
+      "timestamp": "2016-01-21T05:10:00.000", 
+      "average": 1.5669999788888889, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 67, 
+      "timestamp": "2016-01-21T05:15:00.000", 
+      "average": 6.181667268656716, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 69, 
+      "timestamp": "2016-01-21T05:20:00.000", 
+      "average": 14.545242131594204, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T05:25:00.000", 
+      "average": 11.12313727490196, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 54, 
+      "timestamp": "2016-01-21T05:30:00.000", 
+      "average": 9.754815370000001, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 68, 
+      "timestamp": "2016-01-21T05:35:00.000", 
+      "average": 1.054166664852941, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T05:40:00.000", 
+      "average": 18.616333101454547, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T05:45:00.000", 
+      "average": 9.010508473050848, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 64, 
+      "timestamp": "2016-01-21T05:50:00.000", 
+      "average": 1.07114583453125, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T05:55:00.000", 
+      "average": 9.205182596909092, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T06:00:00.000", 
+      "average": 6.941129945423727, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T06:05:00.000", 
+      "average": 16.2288983059322, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T06:10:00.000", 
+      "average": 1.8313030860000001, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 64, 
+      "timestamp": "2016-01-21T06:15:00.000", 
+      "average": 15.14648503453125, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 70, 
+      "timestamp": "2016-01-21T06:20:00.000", 
+      "average": 7.610738084285715, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 57, 
+      "timestamp": "2016-01-21T06:25:00.000", 
+      "average": 10.144298263157895, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 46, 
+      "timestamp": "2016-01-21T06:30:00.000", 
+      "average": 2.176485506521739, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 58, 
+      "timestamp": "2016-01-21T06:35:00.000", 
+      "average": 15.965948278620692, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 48, 
+      "timestamp": "2016-01-21T06:40:00.000", 
+      "average": 1.1625000531249998, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 81, 
+      "timestamp": "2016-01-21T06:45:00.000", 
+      "average": 12.51211878148148, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T06:50:00.000", 
+      "average": 10.235196079607842, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 69, 
+      "timestamp": "2016-01-21T06:55:00.000", 
+      "average": 8.349613533913043, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T07:00:00.000", 
+      "average": 10.861785662142859, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T07:05:00.000", 
+      "average": 9.045126269696969, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 37, 
+      "timestamp": "2016-01-21T07:10:00.000", 
+      "average": 0.7145495513513513, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 82, 
+      "timestamp": "2016-01-21T07:15:00.000", 
+      "average": 12.317134185121953, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 47, 
+      "timestamp": "2016-01-21T07:20:00.000", 
+      "average": 1.5215248082978723, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 64, 
+      "timestamp": "2016-01-21T07:25:00.000", 
+      "average": 14.20765624890625, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 50, 
+      "timestamp": "2016-01-21T07:30:00.000", 
+      "average": 1.1499333012, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 68, 
+      "timestamp": "2016-01-21T07:35:00.000", 
+      "average": 14.578112794117644, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 50, 
+      "timestamp": "2016-01-21T07:40:00.000", 
+      "average": 0.624600014, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 68, 
+      "timestamp": "2016-01-21T07:45:00.000", 
+      "average": 14.108186701617647, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 70, 
+      "timestamp": "2016-01-21T07:50:00.000", 
+      "average": 8.632500002999999, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 67, 
+      "timestamp": "2016-01-21T07:55:00.000", 
+      "average": 8.17907956641791, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 58, 
+      "timestamp": "2016-01-21T08:00:00.000", 
+      "average": 9.667931020689656, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 53, 
+      "timestamp": "2016-01-21T08:05:00.000", 
+      "average": 2.080911932075472, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T08:10:00.000", 
+      "average": 14.664545442121213, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T08:15:00.000", 
+      "average": 0.564967966923077, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T08:20:00.000", 
+      "average": 8.05154545181818, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 49, 
+      "timestamp": "2016-01-21T08:25:00.000", 
+      "average": 10.090646179591836, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 77, 
+      "timestamp": "2016-01-21T08:30:00.000", 
+      "average": 5.583160174285714, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T08:35:00.000", 
+      "average": 19.033268068627454, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 64, 
+      "timestamp": "2016-01-21T08:40:00.000", 
+      "average": 9.383932199999999, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 50, 
+      "timestamp": "2016-01-21T08:45:00.000", 
+      "average": 10.4392666714, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 68, 
+      "timestamp": "2016-01-21T08:50:00.000", 
+      "average": 8.298529410882352, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T08:55:00.000", 
+      "average": 9.297102563384614, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T09:00:00.000", 
+      "average": 10.484791700714284, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 71, 
+      "timestamp": "2016-01-21T09:05:00.000", 
+      "average": 7.684201877746478, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 43, 
+      "timestamp": "2016-01-21T09:10:00.000", 
+      "average": 14.2915117, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T09:15:00.000", 
+      "average": 9.806355966338984, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 64, 
+      "timestamp": "2016-01-21T09:20:00.000", 
+      "average": 8.4012500003125, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T09:25:00.000", 
+      "average": 8.315871795999998, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T09:30:00.000", 
+      "average": 11.755882271764708, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 74, 
+      "timestamp": "2016-01-21T09:35:00.000", 
+      "average": 7.318941443783784, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 42, 
+      "timestamp": "2016-01-21T09:40:00.000", 
+      "average": 1.3272619816666666, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 63, 
+      "timestamp": "2016-01-21T09:45:00.000", 
+      "average": 15.960953095238095, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T09:50:00.000", 
+      "average": 8.896327665423728, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 69, 
+      "timestamp": "2016-01-21T09:55:00.000", 
+      "average": 8.219855072463767, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T10:00:00.000", 
+      "average": 9.08560686287879, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 43, 
+      "timestamp": "2016-01-21T10:05:00.000", 
+      "average": 0.5896124079069769, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 45, 
+      "timestamp": "2016-01-21T10:10:00.000", 
+      "average": 10.072851763333333, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 91, 
+      "timestamp": "2016-01-21T10:15:00.000", 
+      "average": 5.813113582967033, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 48, 
+      "timestamp": "2016-01-21T10:20:00.000", 
+      "average": 9.680973073333334, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T10:25:00.000", 
+      "average": 15.52374999266667, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T10:30:00.000", 
+      "average": 9.451777778333334, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T10:35:00.000", 
+      "average": 10.470750815666667, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 80, 
+      "timestamp": "2016-01-21T10:40:00.000", 
+      "average": 6.7385624882499995, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 39, 
+      "timestamp": "2016-01-21T10:45:00.000", 
+      "average": 1.7328206343589745, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 74, 
+      "timestamp": "2016-01-21T10:50:00.000", 
+      "average": 13.417927982364866, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 42, 
+      "timestamp": "2016-01-21T10:55:00.000", 
+      "average": 0.5209523842857143, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 68, 
+      "timestamp": "2016-01-21T11:00:00.000", 
+      "average": 14.13723032220588, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T11:05:00.000", 
+      "average": 1.9537691846153846, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T11:10:00.000", 
+      "average": 18.113726476470593, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T11:15:00.000", 
+      "average": 1.0167513469491527, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T11:20:00.000", 
+      "average": 17.23180799372881, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 69, 
+      "timestamp": "2016-01-21T11:25:00.000", 
+      "average": 1.1273186850724637, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T11:30:00.000", 
+      "average": 16.471428573214286, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T11:35:00.000", 
+      "average": 9.072974349230769, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T11:40:00.000", 
+      "average": 10.79809600732143, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T11:45:00.000", 
+      "average": 8.18312823876923, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T11:50:00.000", 
+      "average": 8.729469120151517, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 57, 
+      "timestamp": "2016-01-21T11:55:00.000", 
+      "average": 10.611578279122808, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 61, 
+      "timestamp": "2016-01-21T12:00:00.000", 
+      "average": 8.692458983114754, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 42, 
+      "timestamp": "2016-01-21T12:05:00.000", 
+      "average": 13.502739263333334, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 63, 
+      "timestamp": "2016-01-21T12:10:00.000", 
+      "average": 9.63727530936508, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 74, 
+      "timestamp": "2016-01-21T12:15:00.000", 
+      "average": 7.1867336689189205, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 42, 
+      "timestamp": "2016-01-21T12:20:00.000", 
+      "average": 13.11150798190476, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 73, 
+      "timestamp": "2016-01-21T12:25:00.000", 
+      "average": 8.55621007541096, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 41, 
+      "timestamp": "2016-01-21T12:30:00.000", 
+      "average": 12.830853659512194, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 77, 
+      "timestamp": "2016-01-21T12:35:00.000", 
+      "average": 7.6306279670129875, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T12:40:00.000", 
+      "average": 9.995297620714286, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 50, 
+      "timestamp": "2016-01-21T12:45:00.000", 
+      "average": 11.065100337400002, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 78, 
+      "timestamp": "2016-01-21T12:50:00.000", 
+      "average": 7.308845893846153, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 57, 
+      "timestamp": "2016-01-21T12:55:00.000", 
+      "average": 9.860438540350875, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T13:00:00.000", 
+      "average": 10.564880238928572, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 71, 
+      "timestamp": "2016-01-21T13:05:00.000", 
+      "average": 7.640516418732395, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 48, 
+      "timestamp": "2016-01-21T13:10:00.000", 
+      "average": 11.623402286458335, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 50, 
+      "timestamp": "2016-01-21T13:15:00.000", 
+      "average": 2.0955001142, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 73, 
+      "timestamp": "2016-01-21T13:20:00.000", 
+      "average": 6.2050456242465755, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 61, 
+      "timestamp": "2016-01-21T13:25:00.000", 
+      "average": 7.672814203442623, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T13:30:00.000", 
+      "average": 9.106785664464285, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T13:35:00.000", 
+      "average": 15.731166605833334, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T13:40:00.000", 
+      "average": 8.85997440476923, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T13:45:00.000", 
+      "average": 11.941274467941176, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 69, 
+      "timestamp": "2016-01-21T13:50:00.000", 
+      "average": 1.198526566231884, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T13:55:00.000", 
+      "average": 8.46568627254902, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T14:00:00.000", 
+      "average": 8.028305166779662, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 75, 
+      "timestamp": "2016-01-21T14:05:00.000", 
+      "average": 13.877066657066665, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 48, 
+      "timestamp": "2016-01-21T14:10:00.000", 
+      "average": 11.142570418124999, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 50, 
+      "timestamp": "2016-01-21T14:15:00.000", 
+      "average": 1.388599997, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 78, 
+      "timestamp": "2016-01-21T14:20:00.000", 
+      "average": 12.886752139102565, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 42, 
+      "timestamp": "2016-01-21T14:25:00.000", 
+      "average": 0.7404365245238095, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 73, 
+      "timestamp": "2016-01-21T14:30:00.000", 
+      "average": 13.277580349178082, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T14:35:00.000", 
+      "average": 9.468661918181818, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 57, 
+      "timestamp": "2016-01-21T14:40:00.000", 
+      "average": 9.34549742596491, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 46, 
+      "timestamp": "2016-01-21T14:45:00.000", 
+      "average": 12.134565240434782, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 73, 
+      "timestamp": "2016-01-21T14:50:00.000", 
+      "average": 8.506232915753426, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 41, 
+      "timestamp": "2016-01-21T14:55:00.000", 
+      "average": 1.9549187724390245, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 72, 
+      "timestamp": "2016-01-21T15:00:00.000", 
+      "average": 12.921412041805555, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 27, 
+      "timestamp": "2016-01-21T15:05:00.000", 
+      "average": 2.2112962814814816, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 71, 
+      "timestamp": "2016-01-21T15:10:00.000", 
+      "average": 7.198896667323944, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 54, 
+      "timestamp": "2016-01-21T15:15:00.000", 
+      "average": 7.913796291851852, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 68, 
+      "timestamp": "2016-01-21T15:20:00.000", 
+      "average": 14.18776956882353, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T15:25:00.000", 
+      "average": 9.343975166615387, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 41, 
+      "timestamp": "2016-01-21T15:30:00.000", 
+      "average": 13.239716623658538, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 82, 
+      "timestamp": "2016-01-21T15:35:00.000", 
+      "average": 6.9608746193902435, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 62, 
+      "timestamp": "2016-01-21T15:40:00.000", 
+      "average": 10.08172040532258, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 57, 
+      "timestamp": "2016-01-21T15:45:00.000", 
+      "average": 8.904999650701754, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 71, 
+      "timestamp": "2016-01-21T15:50:00.000", 
+      "average": 8.447230334647887, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 63, 
+      "timestamp": "2016-01-21T15:55:00.000", 
+      "average": 9.797116401587303, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 63, 
+      "timestamp": "2016-01-21T16:00:00.000", 
+      "average": 9.279206351904762, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 49, 
+      "timestamp": "2016-01-21T16:05:00.000", 
+      "average": 10.862925173469389, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T16:10:00.000", 
+      "average": 9.519974740909092, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 67, 
+      "timestamp": "2016-01-21T16:15:00.000", 
+      "average": 8.606840748208954, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 48, 
+      "timestamp": "2016-01-21T16:20:00.000", 
+      "average": 10.991457105833332, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 75, 
+      "timestamp": "2016-01-21T16:25:00.000", 
+      "average": 7.501733988933333, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 53, 
+      "timestamp": "2016-01-21T16:30:00.000", 
+      "average": 11.380000941320757, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T16:35:00.000", 
+      "average": 10.394543458823529, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 74, 
+      "timestamp": "2016-01-21T16:40:00.000", 
+      "average": 8.763377927297297, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 57, 
+      "timestamp": "2016-01-21T16:45:00.000", 
+      "average": 11.114415529298245, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 56, 
+      "timestamp": "2016-01-21T16:50:00.000", 
+      "average": 9.549642167678572, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T16:55:00.000", 
+      "average": 9.152610832166665, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 60, 
+      "timestamp": "2016-01-21T17:00:00.000", 
+      "average": 1.9421389580000001, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 51, 
+      "timestamp": "2016-01-21T17:05:00.000", 
+      "average": 18.423202643137255, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T17:10:00.000", 
+      "average": 9.602909606610169, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 59, 
+      "timestamp": "2016-01-21T17:15:00.000", 
+      "average": 1.994774015423729, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 64, 
+      "timestamp": "2016-01-21T17:20:00.000", 
+      "average": 14.619167140937499, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 65, 
+      "timestamp": "2016-01-21T17:25:00.000", 
+      "average": 8.804051278, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 66, 
+      "timestamp": "2016-01-21T17:30:00.000", 
+      "average": 8.529545471969696, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 52, 
+      "timestamp": "2016-01-21T17:35:00.000", 
+      "average": 1.9487179548076923, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 55, 
+      "timestamp": "2016-01-21T17:40:00.000", 
+      "average": 17.092455287272728, 
+      "unit": "Percent"
+    }, 
+    {
+      "samplecount": 49, 
+      "timestamp": "2016-01-21T17:45:00.000", 
+      "average": 11.708809575510205, 
+      "unit": "Percent"
+    }
+  ], 
+  "responsemetadata": {
+    "requestid": "ed9144d9-5357-44ae-ad24-b893355022bd"
+  }, 
+  "label": "CPUUtilization"
+}

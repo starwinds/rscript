@@ -1,0 +1,23 @@
+{
+  "count": 1070,
+  "metricstatistics": [
+    {
+      "samplecount": 0,
+      "timestamp": "2016-01-21T00:00:00.000",
+      "average": 0.0,
+      "unit": "Percent"
+    },
+    {
+      "samplecount": 0,
+      "timestamp": "2016-01-21T00:01:00.000",
+      "average": 0.0,
+      "unit": "Percent"
+    },
+    {
+      "samplecount": 0,
+      "timestamp": "2016-01-21T00:02:00.000",
+      "average": 0.0,
+      "unit": "Percent"
+    }
+   ]
+}

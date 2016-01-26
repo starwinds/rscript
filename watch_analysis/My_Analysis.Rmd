@@ -1,0 +1,14 @@
+```{r setOptions, message=FALSE}
+library(googleVis)
+op <- options(gvis.plot.tag='chart')
+library("jsonlite")
+```
+
+```{r Chart Example, results='asis', tidy=FALSE}
+
+json_data_cpu <- fromJSON("/usr/local/r_project_git/watch_analysis/cpu_request_result.txt",flatten=TRUE)
+vis_view <- gvisLineChart(json_data_cpu$metricstatistics,xvar="timestamp",yvar="average")
+plot(vis_view)
+
+```
+

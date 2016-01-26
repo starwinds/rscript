@@ -1,0 +1,6 @@
+library("jsonlite")
+library("ggplot2")
+json_data_cpu <- fromJSON("/usr/local/r_project_git/watch_analysis/cpu_request_result.txt",flatten=TRUE)
+base <- ggplot(json_data_cpu$metricstatistics,aes(x=timestamp,y=average,group=1))
+base + geom_point() + geom_line() + stat_smooth(method='loess')
+ggsave(file="cpu_average.png")
