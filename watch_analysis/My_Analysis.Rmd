@@ -1,14 +1,29 @@
-```{r setOptions, message=FALSE}
+```{r setOptions, echo=FALSE,message=FALSE,warning=FALSE}
 library(googleVis)
 op <- options(gvis.plot.tag='chart')
 library("jsonlite")
 ```
+GoogleVis Chart
 
-```{r Chart Example, results='asis', tidy=FALSE}
+```{r Chart Example, echo=FALSE,,message=FALSE,warning=FALSE, results='asis', tidy=FALSE}
 
-json_data_cpu <- fromJSON("/usr/local/r_project_git/watch_analysis/cpu_request_result.txt",flatten=TRUE)
-vis_view <- gvisLineChart(json_data_cpu$metricstatistics,xvar="timestamp",yvar="average")
+json_data_cpu <- fromJSON("/usr/local/r_project_git/watch_analysis/request_result.txt",flatten=TRUE)
+vis_view <- gvisLineChart(json_data_cpu$getmetricstatisticsresponse$metricstatistics,xvar="timestamp",yvar=c("maximum","average","minimum"),options=list(pointSize=2))
 plot(vis_view)
+```
+ggplot2 Chart
+
+```{r, echo=FALSE,,message=FALSE,warning=FALSE,out.width=700,out.height=300}
+
+#opts_chunk$set(fig.width=800)
+require(ggplot2)
+
+base <- ggplot(json_data_cpu$getmetricstatisticsresponse$metricstatistics,aes(x=timestamp,y=maximum,group=1))
+
+gplot <- base + geom_point() + geom_line() + stat_smooth(method='loess')
+
+gplot
+#print(gplot)
 
 ```
 

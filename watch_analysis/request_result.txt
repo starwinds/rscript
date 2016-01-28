@@ -1,6429 +1,1259 @@
  {
-  "count": 1070, 
-  "metricstatistics": [
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T00:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T01:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T02:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T03:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T04:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T05:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T06:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T07:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T08:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T09:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T10:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T11:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T12:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T13:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T14:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T15:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:50:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:51:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:52:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:53:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:54:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:55:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:56:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:57:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:58:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T16:59:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:00:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:01:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:02:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:03:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:04:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:05:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:06:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:07:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:08:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:09:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:10:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:11:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:12:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:13:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:14:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:15:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:16:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:17:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:18:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:19:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:20:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:21:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:22:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:23:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:24:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:25:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:26:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:27:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:28:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:29:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:30:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:31:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:32:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:33:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:34:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:35:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:36:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:37:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:38:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:39:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:40:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:41:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:42:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:43:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:44:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:45:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:46:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:47:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:48:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }, 
-    {
-      "samplecount": 0, 
-      "timestamp": "2016-01-21T17:49:00.000", 
-      "average": 0.0, 
-      "unit": "Percent"
-    }
-  ], 
-  "responsemetadata": {
-    "requestid": "b51e6585-b07a-410f-9bfc-0733d6f4c77a"
-  }, 
-  "label": "NetworkOut"
+  "getmetricstatisticsresponse": {
+    "count": 156, 
+    "metricstatistics": [
+      {
+        "samplecount": 514, 
+        "timestamp": "2016-01-22T00:00:00.000", 
+        "average": 1.2567607088132298, 
+        "maximum": 9.21, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-22T01:00:00.000", 
+        "average": 1.21520666299, 
+        "maximum": 4.4, 
+        "minimum": 0.02333333300000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-22T02:00:00.000", 
+        "average": 1.2034959405284553, 
+        "maximum": 9.650001, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-22T03:00:00.000", 
+        "average": 1.1650100853024192, 
+        "maximum": 4.4100003, 
+        "minimum": 0.026666666999999977, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-22T04:00:00.000", 
+        "average": 1.232689240816733, 
+        "maximum": 4.54, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-22T05:00:00.000", 
+        "average": 1.217696773644764, 
+        "maximum": 7.6, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-22T06:00:00.000", 
+        "average": 1.257228920451807, 
+        "maximum": 7.6899996, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-22T07:00:00.000", 
+        "average": 1.150857252008197, 
+        "maximum": 5.6000004, 
+        "minimum": 0.026666666999999977, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-22T08:00:00.000", 
+        "average": 1.1787524820198019, 
+        "maximum": 6.19, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-22T09:00:00.000", 
+        "average": 1.3336546047791162, 
+        "maximum": 18.89, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 475, 
+        "timestamp": "2016-01-22T10:00:00.000", 
+        "average": 1.1711157894736843, 
+        "maximum": 4.28, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-22T11:00:00.000", 
+        "average": 1.2246972784031938, 
+        "maximum": 4.5299997, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-22T12:00:00.000", 
+        "average": 1.225219128266932, 
+        "maximum": 7.59, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-22T13:00:00.000", 
+        "average": 1.2215868268562875, 
+        "maximum": 5.2200003, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 477, 
+        "timestamp": "2016-01-22T14:00:00.000", 
+        "average": 1.2585185172641509, 
+        "maximum": 6.8, 
+        "minimum": 0.02000000099999999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-22T15:00:00.000", 
+        "average": 1.1226478589717743, 
+        "maximum": 4.1499996, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-22T16:00:00.000", 
+        "average": 1.2106418171532094, 
+        "maximum": 13.5199995, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-22T17:00:00.000", 
+        "average": 1.1700133044311376, 
+        "maximum": 4.21, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-22T18:00:00.000", 
+        "average": 1.3751026716016428, 
+        "maximum": 8.36, 
+        "minimum": 0.03333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-22T19:00:00.000", 
+        "average": 1.210425029016064, 
+        "maximum": 4.2, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-22T20:00:00.000", 
+        "average": 1.341718008911704, 
+        "maximum": 10.320001, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 490, 
+        "timestamp": "2016-01-22T21:00:00.000", 
+        "average": 1.1832414946938776, 
+        "maximum": 4.08, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-22T22:00:00.000", 
+        "average": 1.1916320207692308, 
+        "maximum": 9.26, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-22T23:00:00.000", 
+        "average": 1.1675155258385097, 
+        "maximum": 8.96, 
+        "minimum": 0.029999999999999805, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-23T00:00:00.000", 
+        "average": 1.4108268250882359, 
+        "maximum": 10.92, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 486, 
+        "timestamp": "2016-01-23T01:00:00.000", 
+        "average": 1.211625534279835, 
+        "maximum": 4.1499996, 
+        "minimum": 0.023333332999999998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 486, 
+        "timestamp": "2016-01-23T02:00:00.000", 
+        "average": 1.3487723019753086, 
+        "maximum": 15.29, 
+        "minimum": 0.020000000999999996, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-23T03:00:00.000", 
+        "average": 1.3477184217741933, 
+        "maximum": 9.59, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-23T04:00:00.000", 
+        "average": 1.1613962163793106, 
+        "maximum": 4.28, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-23T05:00:00.000", 
+        "average": 1.2909694375697214, 
+        "maximum": 10.76, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-23T06:00:00.000", 
+        "average": 1.1397826029813665, 
+        "maximum": 4.18, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-23T07:00:00.000", 
+        "average": 1.2636138886138615, 
+        "maximum": 17.42, 
+        "minimum": 0.026666667000000005, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-23T08:00:00.000", 
+        "average": 1.1681437924901958, 
+        "maximum": 4.4100003, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-23T09:00:00.000", 
+        "average": 1.7598852815384614, 
+        "maximum": 20.67, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-23T10:00:00.000", 
+        "average": 1.2236980370347648, 
+        "maximum": 10.679999, 
+        "minimum": 0.02, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-23T11:00:00.000", 
+        "average": 1.1919595597594144, 
+        "maximum": 4.3900003, 
+        "minimum": 0.02, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 506, 
+        "timestamp": "2016-01-23T12:00:00.000", 
+        "average": 1.2860013109683797, 
+        "maximum": 14.650001, 
+        "minimum": 0.02333333300000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 506, 
+        "timestamp": "2016-01-23T13:00:00.000", 
+        "average": 1.1880204376086958, 
+        "maximum": 4.38, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 495, 
+        "timestamp": "2016-01-23T14:00:00.000", 
+        "average": 1.2593770848585857, 
+        "maximum": 10.71, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-23T15:00:00.000", 
+        "average": 1.244039910081136, 
+        "maximum": 5.4, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 475, 
+        "timestamp": "2016-01-23T16:00:00.000", 
+        "average": 1.169140337578947, 
+        "maximum": 4.2599998, 
+        "minimum": 0.02333333300000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 523, 
+        "timestamp": "2016-01-23T17:00:00.000", 
+        "average": 1.4579572935277245, 
+        "maximum": 22.54, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-23T18:00:00.000", 
+        "average": 1.371215198839104, 
+        "maximum": 10.849999, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-23T19:00:00.000", 
+        "average": 1.3614685902868853, 
+        "maximum": 14.71, 
+        "minimum": 0.023333332999999998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 509, 
+        "timestamp": "2016-01-23T20:00:00.000", 
+        "average": 1.2043025518271122, 
+        "maximum": 10.35, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-23T21:00:00.000", 
+        "average": 1.3691531863765178, 
+        "maximum": 12.11, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-23T22:00:00.000", 
+        "average": 1.220760583392857, 
+        "maximum": 8.29, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-23T23:00:00.000", 
+        "average": 1.3980509569008264, 
+        "maximum": 14.16, 
+        "minimum": 0.026666666999999977, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-24T00:00:00.000", 
+        "average": 1.4117818526626018, 
+        "maximum": 11.63, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 508, 
+        "timestamp": "2016-01-24T01:00:00.000", 
+        "average": 1.33108596246063, 
+        "maximum": 11.78, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-24T02:00:00.000", 
+        "average": 1.2285748600703936, 
+        "maximum": 8.91, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-24T03:00:00.000", 
+        "average": 1.3449596935483872, 
+        "maximum": 10.360001, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-24T04:00:00.000", 
+        "average": 1.4654956990219563, 
+        "maximum": 64.37, 
+        "minimum": 0.020000000000000004, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-24T05:00:00.000", 
+        "average": 1.2364562206924645, 
+        "maximum": 4.5649996, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 508, 
+        "timestamp": "2016-01-24T06:00:00.000", 
+        "average": 1.337037420531496, 
+        "maximum": 12.87, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-24T07:00:00.000", 
+        "average": 1.33488667682, 
+        "maximum": 10.1, 
+        "minimum": 0.023333332999999998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 474, 
+        "timestamp": "2016-01-24T08:00:00.000", 
+        "average": 1.4870569633755273, 
+        "maximum": 23.99, 
+        "minimum": 0.030000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-24T09:00:00.000", 
+        "average": 1.6300436653225805, 
+        "maximum": 22.71, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 518, 
+        "timestamp": "2016-01-24T10:00:00.000", 
+        "average": 1.2953539429826255, 
+        "maximum": 11.77, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-24T11:00:00.000", 
+        "average": 1.3249272376091472, 
+        "maximum": 13.079999, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-24T12:00:00.000", 
+        "average": 1.3434185373006131, 
+        "maximum": 11.78, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 495, 
+        "timestamp": "2016-01-24T13:00:00.000", 
+        "average": 2.315562297868687, 
+        "maximum": 64.75, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-24T14:00:00.000", 
+        "average": 1.5156245666598775, 
+        "maximum": 12.3, 
+        "minimum": 0.016666666, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 513, 
+        "timestamp": "2016-01-24T15:00:00.000", 
+        "average": 1.574883039337232, 
+        "maximum": 16.310001, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-24T16:00:00.000", 
+        "average": 1.5090060620486818, 
+        "maximum": 16.230001, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-24T17:00:00.000", 
+        "average": 1.1795248100929754, 
+        "maximum": 4.37, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-24T18:00:00.000", 
+        "average": 1.3821985069512193, 
+        "maximum": 10.96, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-24T19:00:00.000", 
+        "average": 1.223198935877016, 
+        "maximum": 4.3, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-24T20:00:00.000", 
+        "average": 1.1931466599, 
+        "maximum": 4.37, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-24T21:00:00.000", 
+        "average": 1.1861576877045912, 
+        "maximum": 4.28, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-24T22:00:00.000", 
+        "average": 1.1893238585598376, 
+        "maximum": 4.21, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-24T23:00:00.000", 
+        "average": 1.3236413288911706, 
+        "maximum": 7.83, 
+        "minimum": 0.016666666, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-25T00:00:00.000", 
+        "average": 1.2599084842549018, 
+        "maximum": 8.389999, 
+        "minimum": 0.02, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-25T01:00:00.000", 
+        "average": 1.1634043256795135, 
+        "maximum": 4.29, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-25T02:00:00.000", 
+        "average": 1.2671929900809717, 
+        "maximum": 14.45, 
+        "minimum": 0.023333332999999998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 497, 
+        "timestamp": "2016-01-25T03:00:00.000", 
+        "average": 1.4314956373843057, 
+        "maximum": 26.359999, 
+        "minimum": 0.016666666, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 514, 
+        "timestamp": "2016-01-25T04:00:00.000", 
+        "average": 1.177130339970817, 
+        "maximum": 4.34, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 480, 
+        "timestamp": "2016-01-25T05:00:00.000", 
+        "average": 1.4385763721979172, 
+        "maximum": 24.85, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-25T06:00:00.000", 
+        "average": 1.1664955553388094, 
+        "maximum": 4.2599998, 
+        "minimum": 0.020000000000000018, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-25T07:00:00.000", 
+        "average": 1.3097078406772908, 
+        "maximum": 20.41, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-25T08:00:00.000", 
+        "average": 1.2104695827876988, 
+        "maximum": 7.62, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-25T09:00:00.000", 
+        "average": 1.3678943853267331, 
+        "maximum": 19.37, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-25T10:00:00.000", 
+        "average": 1.1892498546435846, 
+        "maximum": 4.63, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-25T11:00:00.000", 
+        "average": 1.5173570509832635, 
+        "maximum": 21.88, 
+        "minimum": 0.016666666, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 523, 
+        "timestamp": "2016-01-25T12:00:00.000", 
+        "average": 1.2509719684703633, 
+        "maximum": 8.4, 
+        "minimum": 0.016666666, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 456, 
+        "timestamp": "2016-01-25T13:00:00.000", 
+        "average": 1.377613285877193, 
+        "maximum": 12.700001, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-25T14:00:00.000", 
+        "average": 1.2137830771428573, 
+        "maximum": 4.42, 
+        "minimum": 0.023333332999999998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-25T15:00:00.000", 
+        "average": 1.1933232971285141, 
+        "maximum": 4.4, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 485, 
+        "timestamp": "2016-01-25T16:00:00.000", 
+        "average": 1.3824948420824745, 
+        "maximum": 24.950000000000003, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-25T17:00:00.000", 
+        "average": 1.1972155718562874, 
+        "maximum": 4.28, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 485, 
+        "timestamp": "2016-01-25T18:00:00.000", 
+        "average": 1.276756024268041, 
+        "maximum": 14.929999, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-25T19:00:00.000", 
+        "average": 1.2781376478744935, 
+        "maximum": 17.05, 
+        "minimum": 0.030000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-25T20:00:00.000", 
+        "average": 1.7787189689803924, 
+        "maximum": 24.91, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 490, 
+        "timestamp": "2016-01-25T21:00:00.000", 
+        "average": 2.017765330530612, 
+        "maximum": 29.960001, 
+        "minimum": 0.02, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-25T22:00:00.000", 
+        "average": 2.209760969077869, 
+        "maximum": 25.94, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-25T23:00:00.000", 
+        "average": 2.4687358860878246, 
+        "maximum": 27.039999, 
+        "minimum": 0.023333332999999956, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-26T00:00:00.000", 
+        "average": 1.3227822970791077, 
+        "maximum": 10.24, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-26T01:00:00.000", 
+        "average": 1.256898160029762, 
+        "maximum": 12.3, 
+        "minimum": 0.016666666, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-26T02:00:00.000", 
+        "average": 1.237818428699187, 
+        "maximum": 9.17, 
+        "minimum": 0.033333329999999994, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-26T03:00:00.000", 
+        "average": 1.303462866155419, 
+        "maximum": 10.7, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-26T04:00:00.000", 
+        "average": 1.2150665293413172, 
+        "maximum": 10.59, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-26T05:00:00.000", 
+        "average": 2.4595587077902237, 
+        "maximum": 31.599999000000004, 
+        "minimum": 0.016666668, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-26T06:00:00.000", 
+        "average": 2.3921166136000003, 
+        "maximum": 21.21, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-26T07:00:00.000", 
+        "average": 1.31732218458159, 
+        "maximum": 17.810001, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-26T08:00:00.000", 
+        "average": 1.209485340797546, 
+        "maximum": 8.83, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-26T09:00:00.000", 
+        "average": 1.385449642434077, 
+        "maximum": 20.26, 
+        "minimum": 0.020000001000000003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 485, 
+        "timestamp": "2016-01-26T10:00:00.000", 
+        "average": 1.378092804443299, 
+        "maximum": 11.7, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 479, 
+        "timestamp": "2016-01-26T11:00:00.000", 
+        "average": 1.305240084008351, 
+        "maximum": 19.57, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-26T12:00:00.000", 
+        "average": 1.3199524825865578, 
+        "maximum": 14.71, 
+        "minimum": 0.02, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 499, 
+        "timestamp": "2016-01-26T13:00:00.000", 
+        "average": 1.4568269969939884, 
+        "maximum": 14.61, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-26T14:00:00.000", 
+        "average": 1.275224039226069, 
+        "maximum": 12.420000000000002, 
+        "minimum": 0.030000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-26T15:00:00.000", 
+        "average": 1.2428929699186995, 
+        "maximum": 13.079999, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-26T16:00:00.000", 
+        "average": 1.17517999686, 
+        "maximum": 10.57, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 499, 
+        "timestamp": "2016-01-26T17:00:00.000", 
+        "average": 1.2486139111422843, 
+        "maximum": 13.93, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 476, 
+        "timestamp": "2016-01-26T18:00:00.000", 
+        "average": 1.2828886654411766, 
+        "maximum": 11.36, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 506, 
+        "timestamp": "2016-01-26T19:00:00.000", 
+        "average": 1.2666930210869563, 
+        "maximum": 12.16, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-26T20:00:00.000", 
+        "average": 1.228130399451098, 
+        "maximum": 14.94, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-26T21:00:00.000", 
+        "average": 1.219366400909091, 
+        "maximum": 7.62, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 509, 
+        "timestamp": "2016-01-26T22:00:00.000", 
+        "average": 1.1884086444990176, 
+        "maximum": 4.1, 
+        "minimum": 0.026666667000000005, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-26T23:00:00.000", 
+        "average": 1.2811845807231401, 
+        "maximum": 4.03, 
+        "minimum": 0.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-27T00:00:00.000", 
+        "average": 1.1724950221457084, 
+        "maximum": 4.09, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-27T01:00:00.000", 
+        "average": 1.2074460188259115, 
+        "maximum": 4.04, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-27T02:00:00.000", 
+        "average": 1.16440000984, 
+        "maximum": 6.52, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-27T03:00:00.000", 
+        "average": 1.1941109035902637, 
+        "maximum": 4.27, 
+        "minimum": 0.023333332999999998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-27T04:00:00.000", 
+        "average": 1.2285334651656312, 
+        "maximum": 12.68, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 473, 
+        "timestamp": "2016-01-27T05:00:00.000", 
+        "average": 1.2389710926828752, 
+        "maximum": 11.34, 
+        "minimum": 0.02, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 512, 
+        "timestamp": "2016-01-27T06:00:00.000", 
+        "average": 1.1664843709765624, 
+        "maximum": 5.79, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-27T07:00:00.000", 
+        "average": 1.20547123018711, 
+        "maximum": 5.43, 
+        "minimum": 0.02000000099999999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-27T08:00:00.000", 
+        "average": 1.1431876952235769, 
+        "maximum": 5.29, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-27T09:00:00.000", 
+        "average": 1.3744123366633467, 
+        "maximum": 19.51, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-27T10:00:00.000", 
+        "average": 1.1761261215280665, 
+        "maximum": 4.21, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-27T11:00:00.000", 
+        "average": 1.3274070329411762, 
+        "maximum": 13.75, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-27T12:00:00.000", 
+        "average": 1.227451790268595, 
+        "maximum": 7.2200003, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-27T13:00:00.000", 
+        "average": 1.2384290553465345, 
+        "maximum": 8.28, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-27T14:00:00.000", 
+        "average": 1.1647210790690377, 
+        "maximum": 4.5499997, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 499, 
+        "timestamp": "2016-01-27T15:00:00.000", 
+        "average": 1.2250701323046091, 
+        "maximum": 4.5099998, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-27T16:00:00.000", 
+        "average": 1.2107622011585364, 
+        "maximum": 4.3900003, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 497, 
+        "timestamp": "2016-01-27T17:00:00.000", 
+        "average": 1.2341683333802818, 
+        "maximum": 5.0, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-27T18:00:00.000", 
+        "average": 1.209619832688391, 
+        "maximum": 13.85, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 490, 
+        "timestamp": "2016-01-27T19:00:00.000", 
+        "average": 1.3017244969387753, 
+        "maximum": 8.14, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-27T20:00:00.000", 
+        "average": 1.2418905277066112, 
+        "maximum": 8.7, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 495, 
+        "timestamp": "2016-01-27T21:00:00.000", 
+        "average": 1.2437878706666665, 
+        "maximum": 7.75, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 497, 
+        "timestamp": "2016-01-27T22:00:00.000", 
+        "average": 1.220368867193159, 
+        "maximum": 15.22, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 485, 
+        "timestamp": "2016-01-27T23:00:00.000", 
+        "average": 1.2405738741134018, 
+        "maximum": 4.52, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-28T00:00:00.000", 
+        "average": 1.2117277715682284, 
+        "maximum": 4.28, 
+        "minimum": 0.026666667, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-28T01:00:00.000", 
+        "average": 1.2474476035496957, 
+        "maximum": 9.650001, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 476, 
+        "timestamp": "2016-01-28T02:00:00.000", 
+        "average": 1.2790126140966385, 
+        "maximum": 7.5000005, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-28T03:00:00.000", 
+        "average": 1.2893111690120969, 
+        "maximum": 11.05, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-28T04:00:00.000", 
+        "average": 1.3270658786626746, 
+        "maximum": 16.17, 
+        "minimum": 0.03333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-28T05:00:00.000", 
+        "average": 1.2930904082995953, 
+        "maximum": 23.48, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-28T06:00:00.000", 
+        "average": 1.2620282547623967, 
+        "maximum": 23.93, 
+        "minimum": 0.020000001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 497, 
+        "timestamp": "2016-01-28T07:00:00.000", 
+        "average": 1.2219248964989937, 
+        "maximum": 17.54, 
+        "minimum": 0.016666666, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-28T08:00:00.000", 
+        "average": 1.2403449315573774, 
+        "maximum": 15.57, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 479, 
+        "timestamp": "2016-01-28T09:00:00.000", 
+        "average": 1.5826131194780795, 
+        "maximum": 26.26, 
+        "minimum": 0.02, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-28T10:00:00.000", 
+        "average": 1.4286435248977505, 
+        "maximum": 14.95, 
+        "minimum": 0.016666665999999997, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 157, 
+        "timestamp": "2016-01-28T11:00:00.000", 
+        "average": 1.1881422733121019, 
+        "maximum": 26.08, 
+        "minimum": 0.023333333, 
+        "unit": "Percent"
+      }
+    ], 
+    "responsemetadata": {
+      "requestid": "89f81815-7917-4cfb-ab0f-555273eb3a58"
+    }, 
+    "label": "CPUUtilization"
+  }
 }
