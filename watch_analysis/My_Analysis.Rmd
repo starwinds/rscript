@@ -11,9 +11,9 @@ json_data_cpu <- fromJSON("/usr/local/r_project_git/watch_analysis/request_resul
 vis_view <- gvisLineChart(json_data_cpu$getmetricstatisticsresponse$metricstatistics,xvar="timestamp",yvar=c("maximum","average","minimum"),options=list(pointSize=2))
 plot(vis_view)
 ```
-ggplot2 Chart
+ggplot2 Chart - Trend 
 
-```{r, echo=FALSE,,message=FALSE,warning=FALSE,out.width=700,out.height=300}
+```{r, echo=FALSE,,message=FALSE,warning=FALSE,out.width=500,out.height=300}
 
 #opts_chunk$set(fig.width=800)
 require(ggplot2)
@@ -26,4 +26,13 @@ gplot
 #print(gplot)
 
 ```
+ggplot2 Chart -  Linear Regression
 
+```{r, echo=FALSE,,message=FALSE,warning=FALSE,out.width=500,out.height=300}
+metric_df <- json_data_cpu$getmetricstatisticsresponse$metricstatistics
+metric_df <- cbind(metric_df,strptime(metric_df$timestamp,format='%Y-%m-%dT%H:%M:%S'))
+names(metric_df)[7] <- c("date")
+base2 <- ggplot(metric_df,aes(x=date,y=maximum,group=1))
+gplot <- base2 + geom_point() + geom_line() + xlim(strptime("2016-01-22T00:00:00.000",format='%Y-%m-%dT%H:%M:%S'),strptime("2016-01-31T23:00:00.000",format='%Y-%m-%dT%H:%M:%S')) + stat_smooth(method="lm",fullrange=TRUE)
+gplot
+```
