@@ -10,6 +10,21 @@ GoogleVis Chart
 json_data_cpu <- fromJSON("/usr/local/r_project_git/watch_analysis/request_result.txt",flatten=TRUE)
 vis_view <- gvisLineChart(json_data_cpu$getmetricstatisticsresponse$metricstatistics,xvar="timestamp",yvar=c("maximum","average","minimum"),options=list(pointSize=2))
 plot(vis_view)
+
+metric_vis_df <- json_data_cpu$getmetricstatisticsresponse$metricstatistics
+metric_vis_df <- cbind(metric_vis_df,strptime(metric_vis_df$timestamp,format='%Y-%m-%dT%H:%M:%S'))
+names(metric_vis_df)[7] <- c("date")
+
+metric_vis_df <- cbind(metric_vis_df,strftime(metric_vis_df$date,format="%T"))
+names(metric_vis_df)[8] <- c("hour")
+metric_vis_df <- transform(metric_vis_df,hour=as.numeric(hour))
+
+metric_vis_df <- transform(metric_vis_df,date=as.Date(date,tz="Asia/Seoul"))
+metric_vis_df <- cbind(metric_vis_df,strftime(metric_vis_df$date,format="%m/%d"))
+names(metric_vis_df)[9] <- c("day")
+
+motion <- gvisMotionChart(metric_vis_df,idvar="date",timevar="hour")
+plot(motion)
 ```
 ggplot2 Chart - Trend & Linear Regression 
 
@@ -36,3 +51,5 @@ base2 <- ggplot(metric_df,aes(x=date,y=maximum,group=1))
 gplot <- base2 + geom_point() + geom_line() + xlim(strptime("2016-01-22T00:00:00.000",format='%Y-%m-%dT%H:%M:%S'),strptime("2016-01-31T23:00:00.000",format='%Y-%m-%dT%H:%M:%S')) + stat_smooth(method="lm",fullrange=TRUE)
 gplot
 ```
+
+

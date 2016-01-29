@@ -1,0 +1,983 @@
+ {
+  "getmetricstatisticsresponse": {
+    "count": 162, 
+    "metricstatistics": [
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-21T00:00:00.000", 
+        "maximum": 15.790001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 486, 
+        "timestamp": "2016-01-21T01:00:00.000", 
+        "maximum": 14.440000999999999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-21T02:00:00.000", 
+        "maximum": 4.17, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 508, 
+        "timestamp": "2016-01-21T03:00:00.000", 
+        "maximum": 14.5, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-21T04:00:00.000", 
+        "maximum": 5.66, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-21T05:00:00.000", 
+        "maximum": 24.4, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-21T06:00:00.000", 
+        "maximum": 19.08, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-21T07:00:00.000", 
+        "maximum": 12.620001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 490, 
+        "timestamp": "2016-01-21T08:00:00.000", 
+        "maximum": 15.52, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-21T09:00:00.000", 
+        "maximum": 19.35, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-21T10:00:00.000", 
+        "maximum": 9.34, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-21T11:00:00.000", 
+        "maximum": 4.37, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-21T12:00:00.000", 
+        "maximum": 4.44, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-21T13:00:00.000", 
+        "maximum": 4.4700003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-21T14:00:00.000", 
+        "maximum": 4.67, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 486, 
+        "timestamp": "2016-01-21T15:00:00.000", 
+        "maximum": 18.039999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-21T16:00:00.000", 
+        "maximum": 14.900001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 509, 
+        "timestamp": "2016-01-21T17:00:00.000", 
+        "maximum": 4.24, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 490, 
+        "timestamp": "2016-01-21T18:00:00.000", 
+        "maximum": 20.74, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 480, 
+        "timestamp": "2016-01-21T19:00:00.000", 
+        "maximum": 24.060001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 524, 
+        "timestamp": "2016-01-21T20:00:00.000", 
+        "maximum": 10.01, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 495, 
+        "timestamp": "2016-01-21T21:00:00.000", 
+        "maximum": 8.95, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 486, 
+        "timestamp": "2016-01-21T22:00:00.000", 
+        "maximum": 9.2699995, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 482, 
+        "timestamp": "2016-01-21T23:00:00.000", 
+        "maximum": 13.19, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 514, 
+        "timestamp": "2016-01-22T00:00:00.000", 
+        "maximum": 9.21, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-22T01:00:00.000", 
+        "maximum": 4.4, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-22T02:00:00.000", 
+        "maximum": 9.650001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-22T03:00:00.000", 
+        "maximum": 4.4100003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-22T04:00:00.000", 
+        "maximum": 4.54, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-22T05:00:00.000", 
+        "maximum": 7.6, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-22T06:00:00.000", 
+        "maximum": 7.6899996, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-22T07:00:00.000", 
+        "maximum": 5.6000004, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-22T08:00:00.000", 
+        "maximum": 6.19, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-22T09:00:00.000", 
+        "maximum": 18.89, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 475, 
+        "timestamp": "2016-01-22T10:00:00.000", 
+        "maximum": 4.28, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-22T11:00:00.000", 
+        "maximum": 4.5299997, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-22T12:00:00.000", 
+        "maximum": 7.59, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-22T13:00:00.000", 
+        "maximum": 5.2200003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 477, 
+        "timestamp": "2016-01-22T14:00:00.000", 
+        "maximum": 6.8, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-22T15:00:00.000", 
+        "maximum": 4.1499996, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-22T16:00:00.000", 
+        "maximum": 13.5199995, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-22T17:00:00.000", 
+        "maximum": 4.21, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-22T18:00:00.000", 
+        "maximum": 8.36, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-22T19:00:00.000", 
+        "maximum": 4.2, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-22T20:00:00.000", 
+        "maximum": 10.320001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 490, 
+        "timestamp": "2016-01-22T21:00:00.000", 
+        "maximum": 4.08, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-22T22:00:00.000", 
+        "maximum": 9.26, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-22T23:00:00.000", 
+        "maximum": 8.96, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-23T00:00:00.000", 
+        "maximum": 10.92, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 486, 
+        "timestamp": "2016-01-23T01:00:00.000", 
+        "maximum": 4.1499996, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 486, 
+        "timestamp": "2016-01-23T02:00:00.000", 
+        "maximum": 15.29, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-23T03:00:00.000", 
+        "maximum": 9.59, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-23T04:00:00.000", 
+        "maximum": 4.28, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-23T05:00:00.000", 
+        "maximum": 10.76, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-23T06:00:00.000", 
+        "maximum": 4.18, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-23T07:00:00.000", 
+        "maximum": 17.42, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-23T08:00:00.000", 
+        "maximum": 4.4100003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-23T09:00:00.000", 
+        "maximum": 20.67, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-23T10:00:00.000", 
+        "maximum": 10.679999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-23T11:00:00.000", 
+        "maximum": 4.3900003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 506, 
+        "timestamp": "2016-01-23T12:00:00.000", 
+        "maximum": 14.650001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 506, 
+        "timestamp": "2016-01-23T13:00:00.000", 
+        "maximum": 4.38, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 495, 
+        "timestamp": "2016-01-23T14:00:00.000", 
+        "maximum": 10.71, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-23T15:00:00.000", 
+        "maximum": 5.4, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 475, 
+        "timestamp": "2016-01-23T16:00:00.000", 
+        "maximum": 4.2599998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 523, 
+        "timestamp": "2016-01-23T17:00:00.000", 
+        "maximum": 22.54, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-23T18:00:00.000", 
+        "maximum": 10.849999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-23T19:00:00.000", 
+        "maximum": 14.71, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 509, 
+        "timestamp": "2016-01-23T20:00:00.000", 
+        "maximum": 10.35, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-23T21:00:00.000", 
+        "maximum": 12.11, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-23T22:00:00.000", 
+        "maximum": 8.29, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-23T23:00:00.000", 
+        "maximum": 14.16, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-24T00:00:00.000", 
+        "maximum": 11.63, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 508, 
+        "timestamp": "2016-01-24T01:00:00.000", 
+        "maximum": 11.78, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-24T02:00:00.000", 
+        "maximum": 8.91, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-24T03:00:00.000", 
+        "maximum": 10.360001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-24T04:00:00.000", 
+        "maximum": 64.37, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-24T05:00:00.000", 
+        "maximum": 4.5649996, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 508, 
+        "timestamp": "2016-01-24T06:00:00.000", 
+        "maximum": 12.87, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-24T07:00:00.000", 
+        "maximum": 10.1, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 474, 
+        "timestamp": "2016-01-24T08:00:00.000", 
+        "maximum": 23.99, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-24T09:00:00.000", 
+        "maximum": 22.71, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 518, 
+        "timestamp": "2016-01-24T10:00:00.000", 
+        "maximum": 11.77, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-24T11:00:00.000", 
+        "maximum": 13.079999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-24T12:00:00.000", 
+        "maximum": 11.78, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 495, 
+        "timestamp": "2016-01-24T13:00:00.000", 
+        "maximum": 64.75, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-24T14:00:00.000", 
+        "maximum": 12.3, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 513, 
+        "timestamp": "2016-01-24T15:00:00.000", 
+        "maximum": 16.310001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-24T16:00:00.000", 
+        "maximum": 16.230001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-24T17:00:00.000", 
+        "maximum": 4.37, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-24T18:00:00.000", 
+        "maximum": 10.96, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 496, 
+        "timestamp": "2016-01-24T19:00:00.000", 
+        "maximum": 4.3, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-24T20:00:00.000", 
+        "maximum": 4.37, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-24T21:00:00.000", 
+        "maximum": 4.28, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-24T22:00:00.000", 
+        "maximum": 4.21, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-24T23:00:00.000", 
+        "maximum": 7.83, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-25T00:00:00.000", 
+        "maximum": 8.389999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-25T01:00:00.000", 
+        "maximum": 4.29, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-25T02:00:00.000", 
+        "maximum": 14.45, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 497, 
+        "timestamp": "2016-01-25T03:00:00.000", 
+        "maximum": 26.359999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 514, 
+        "timestamp": "2016-01-25T04:00:00.000", 
+        "maximum": 4.34, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 480, 
+        "timestamp": "2016-01-25T05:00:00.000", 
+        "maximum": 24.85, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 487, 
+        "timestamp": "2016-01-25T06:00:00.000", 
+        "maximum": 4.2599998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-25T07:00:00.000", 
+        "maximum": 20.41, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-25T08:00:00.000", 
+        "maximum": 7.62, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-25T09:00:00.000", 
+        "maximum": 19.37, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-25T10:00:00.000", 
+        "maximum": 4.63, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-25T11:00:00.000", 
+        "maximum": 21.88, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 523, 
+        "timestamp": "2016-01-25T12:00:00.000", 
+        "maximum": 8.4, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 456, 
+        "timestamp": "2016-01-25T13:00:00.000", 
+        "maximum": 12.700001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-25T14:00:00.000", 
+        "maximum": 4.42, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 498, 
+        "timestamp": "2016-01-25T15:00:00.000", 
+        "maximum": 4.4, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 485, 
+        "timestamp": "2016-01-25T16:00:00.000", 
+        "maximum": 24.950000000000003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-25T17:00:00.000", 
+        "maximum": 4.28, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 485, 
+        "timestamp": "2016-01-25T18:00:00.000", 
+        "maximum": 14.929999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-25T19:00:00.000", 
+        "maximum": 17.05, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 510, 
+        "timestamp": "2016-01-25T20:00:00.000", 
+        "maximum": 24.91, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 490, 
+        "timestamp": "2016-01-25T21:00:00.000", 
+        "maximum": 29.960001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 488, 
+        "timestamp": "2016-01-25T22:00:00.000", 
+        "maximum": 25.94, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-25T23:00:00.000", 
+        "maximum": 27.039999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-26T00:00:00.000", 
+        "maximum": 10.24, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 504, 
+        "timestamp": "2016-01-26T01:00:00.000", 
+        "maximum": 12.3, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-26T02:00:00.000", 
+        "maximum": 9.17, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-26T03:00:00.000", 
+        "maximum": 10.7, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-26T04:00:00.000", 
+        "maximum": 10.59, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-26T05:00:00.000", 
+        "maximum": 31.599999000000004, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-26T06:00:00.000", 
+        "maximum": 21.21, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-26T07:00:00.000", 
+        "maximum": 17.810001, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 489, 
+        "timestamp": "2016-01-26T08:00:00.000", 
+        "maximum": 8.83, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-26T09:00:00.000", 
+        "maximum": 20.26, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 485, 
+        "timestamp": "2016-01-26T10:00:00.000", 
+        "maximum": 11.7, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 479, 
+        "timestamp": "2016-01-26T11:00:00.000", 
+        "maximum": 19.57, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-26T12:00:00.000", 
+        "maximum": 14.71, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 499, 
+        "timestamp": "2016-01-26T13:00:00.000", 
+        "maximum": 14.61, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 491, 
+        "timestamp": "2016-01-26T14:00:00.000", 
+        "maximum": 12.420000000000002, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-26T15:00:00.000", 
+        "maximum": 13.079999, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-26T16:00:00.000", 
+        "maximum": 10.57, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 499, 
+        "timestamp": "2016-01-26T17:00:00.000", 
+        "maximum": 13.93, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 476, 
+        "timestamp": "2016-01-26T18:00:00.000", 
+        "maximum": 11.36, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 506, 
+        "timestamp": "2016-01-26T19:00:00.000", 
+        "maximum": 12.16, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-26T20:00:00.000", 
+        "maximum": 14.94, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-26T21:00:00.000", 
+        "maximum": 7.62, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 509, 
+        "timestamp": "2016-01-26T22:00:00.000", 
+        "maximum": 4.1, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-26T23:00:00.000", 
+        "maximum": 4.03, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 501, 
+        "timestamp": "2016-01-27T00:00:00.000", 
+        "maximum": 4.09, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 494, 
+        "timestamp": "2016-01-27T01:00:00.000", 
+        "maximum": 4.04, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 500, 
+        "timestamp": "2016-01-27T02:00:00.000", 
+        "maximum": 6.52, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-27T03:00:00.000", 
+        "maximum": 4.27, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 483, 
+        "timestamp": "2016-01-27T04:00:00.000", 
+        "maximum": 12.68, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 473, 
+        "timestamp": "2016-01-27T05:00:00.000", 
+        "maximum": 11.34, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 512, 
+        "timestamp": "2016-01-27T06:00:00.000", 
+        "maximum": 5.79, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-27T07:00:00.000", 
+        "maximum": 5.43, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-27T08:00:00.000", 
+        "maximum": 5.29, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 502, 
+        "timestamp": "2016-01-27T09:00:00.000", 
+        "maximum": 19.51, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 481, 
+        "timestamp": "2016-01-27T10:00:00.000", 
+        "maximum": 4.21, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 493, 
+        "timestamp": "2016-01-27T11:00:00.000", 
+        "maximum": 13.75, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 484, 
+        "timestamp": "2016-01-27T12:00:00.000", 
+        "maximum": 7.2200003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 505, 
+        "timestamp": "2016-01-27T13:00:00.000", 
+        "maximum": 8.28, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 478, 
+        "timestamp": "2016-01-27T14:00:00.000", 
+        "maximum": 4.5499997, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 499, 
+        "timestamp": "2016-01-27T15:00:00.000", 
+        "maximum": 4.5099998, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 492, 
+        "timestamp": "2016-01-27T16:00:00.000", 
+        "maximum": 4.3900003, 
+        "unit": "Percent"
+      }, 
+      {
+        "samplecount": 374, 
+        "timestamp": "2016-01-27T17:00:00.000", 
+        "maximum": 5.0, 
+        "unit": "Percent"
+      }
+    ], 
+    "responsemetadata": {
+      "requestid": "83e8f69e-4e4c-477e-a7d4-b07b7dc5d4a5"
+    }, 
+    "label": "CPUUtilization"
+  }
+}
